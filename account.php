@@ -292,7 +292,7 @@ echo '</table></div></div>';}
 		 </div>
 		 <div class="col-md-5">
 		<a href="https://www.facebook.com/jannat.iffa" style="color:#202020; font-family:'typo' ; font-size:14px" title="Find on Facebook">Khatune Jannat Iffa</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:12px" class="title1">+880 1952119332</h4>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:12px" class="title1">+880 19--------</h4>
 		<h4 style="font-family:'typo' ;font-size:13px">iffa@altcoders.com</h4>
 		<h4 style="font-family:'typo' ;font-size:12px">Northern University Bangladesh</h4></div></div>
 		</p>
@@ -304,7 +304,7 @@ echo '</table></div></div>';}
 		 </div>
 		 <div class="col-md-5">
 		<a href="https://www.facebook.com/profile.php?id=100005650875844" style="color:#202020; font-family:'typo' ; font-size:14px" title="Find on Facebook">Iffat Ara Tonny</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:12px" class="title1">+880 1638675395</h4>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:12px" class="title1">+880 16--------</h4>
 		<h4 style="font-family:'typo' ;font-size:13px">tonny@altcoders.com</h4>
 		<h4 style="font-family:'typo' ;font-size:12px">Northern University Bangladesh</h4></div></div>
 		</p>
@@ -316,7 +316,7 @@ echo '</table></div></div>';}
 		 </div>
 		 <div class="col-md-5">
 		<a href="https://www.facebook.com/orsha.orsha.520" style="color:#202020; font-family:'typo' ; font-size:14px" title="Find on Facebook">Mst.Achia khatun</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:12px" class="title1">+880 1956152742</h4>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:12px" class="title1">+880 19--------</h4>
 		<h4 style="font-family:'typo' ;font-size:13px">mukta@altcoders.com</h4>
 		<h4 style="font-family:'typo' ;font-size:12px">Northern University Bangladesh</h4></div></div>
 		</p>
@@ -328,7 +328,7 @@ echo '</table></div></div>';}
 		 </div>
 		 <div class="col-md-5">
 		<a href="https://www.facebook.com/sharminjahan.daizy" style="color:#202020; font-family:'typo' ; font-size:14px" title="Find on Facebook">Sharmin Jahan Daizy</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:12px" class="title1">+880 1952132109</h4>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:12px" class="title1">+880 19--------</h4>
 		<h4 style="font-family:'typo' ;font-size:13px">daizy@altcoders.com</h4>
 		<h4 style="font-family:'typo' ;font-size:12px">Northern University Bangladesh</h4></div></div>
 		</p>
@@ -352,7 +352,7 @@ echo '</table></div></div>';}
 		 </div>
 		 <div class="col-md-5">
 		<a href="http://web.altcoders.com" style="color:#202020; font-family:'typo' ; font-size:16px" title="Find on Facebook">AltCoders</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:13px" class="title1">+880 1971967079</h4>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:13px" class="title1">+880 1778681691</h4>
 		<h4 style="font-family:'typo' ;font-size:14px">info@altcoders.com</h4>
 		<h4 style="font-family:'typo' ;font-size:14px">Love Road, Tejgaon, Dhaka-1208</h4></div></div>
 		</p>
