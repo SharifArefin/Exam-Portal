@@ -1,5 +1,5 @@
 # Exam-Portal
-Exam Portal is completely PHP based project for submission as versity project.
+Exam Portal is completely PHP based project for submission as varsity project.
 
 #For_localhost
 In "dbConnection.php", Change your details accourding your dtabase.
